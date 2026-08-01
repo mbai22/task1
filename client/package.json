@@ -1,0 +1,10 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node app.js",
+    "start": "node app.js",
+    "build": "node -e \"console.log('Client build step not required for this starter.')\""
+  }
+}
